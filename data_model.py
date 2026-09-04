@@ -134,7 +134,7 @@ def default_payload() -> dict[str, Any]:
         "reference_version": REFERENCE_VERSION,
         "metadata": {
             "societe": "Hympyr Énergies", "siren": "", "siret": "", "date_controle": today,
-            "controleur": "Quentin Debrie", "responsable_comptable": "", "logiciel": "",
+            "controleur": "Michael ROSA", "responsable_comptable": "", "logiciel": "",
             "environnement": "Production", "reference_facture": "", "statut_controle": "À réaliser",
         },
         "profile": {
